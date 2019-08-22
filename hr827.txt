@@ -1,0 +1,123 @@
+﻿I
+
+116TH CONGRESS
+1ST SESSION
+
+H. R. 827
+
+To promote a 21st century artificial intelligence workforce.
+
+IN THE HOUSE OF REPRESENTATIVES
+JANUARY 28, 2019
+Mr. SOTO (for himself, Mr. KRISHNAMOORTHI, Ms. STEFANIK, Ms. CLARKE
+of New York, Mr. GALLAGHER, Mrs. DINGELL, Mr. NORMAN, Mr.
+TAKANO, Mr. MITCHELL, and Mr. KHANNA) introduced the following bill;
+which was referred to the Committee on Education and Labor
+
+A BILL
+To promote a 21st century artificial intelligence workforce.
+1
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+3
+
+SECTION 1. SHORT TITLE.
+
+4
+
+This Act may be cited as the ‘‘Artificial Intelligence Job Opportunities and Background Summary Act of 2019’’ or the ‘‘AI JOBS Act of 2019’’.
+7
+
+SEC. 2. SENSE OF CONGRESS.
+
+8
+
+It is the sense of Congress that technology can improve the lives of individuals, but can also disrupt jobs,
+10 and for this reason, innovation should be encouraged while training and retraining American workers for our 21st century economy.
+
+
+SEC. 3. REPORT ON ARTIFICIAL INTELLIGENCE.
+
+REPORT REQUIREMENTS.—Not later than 1 year after the date of the enactment of this Act, the Secretary of Labor, in collaboration with the individuals and entities
+described in subsection (b), shall prepare and submit to
+the Committee on Education and Labor of the House of
+Representatives and the Committee on Health, Education,
+Labor, and Pensions of the Senate, a report on artificial
+intelligence and its impact on the workforce, which shall include the following:
+
+(1) Outline the specific data, and the availability of such data, necessary to properly analyze the impact and growth of artificial intelligence.
+
+
+(2) Identification of industries that are projected to have the most growth in artificial intelligence use, and whether the technology will result in
+the enhancement of workers’ capabilities or their replacement.
+
+(3) Analysis of the expertise and education (including computer science literacy) needed to develop,
+operate, or work alongside artificial intelligence over the next two decades, as compared to the levels of
+such expertise and education among the workforce as of the date of enactment of this Act.
+
+(4) Analysis of which demographics (including ethnic, gender, economic, age, and regional) may experience expanded career opportunities, and which
+such demographics may be vulnerable to career displacement, due to artificial intelligence.
+
+(5) Any recommendations to alleviate workforce displacement, prepare future workforce members for
+the artificial-intelligence economy, and any other relevant observations or recommendations within the
+field of artificial intelligence.
+
+COLLABORATION.—In preparing the report under
+subsection (a), the Secretary of Labor shall collaborate,through a series of public meetings, roundtables or other methods, with local educational agencies, institutions of
+higher education (including community colleges),
+workforce-training organizations, and National Laboratories;
+
+(2) a broad range of industrial stakeholders inthe technology, manufacturing, and service sectors,
+including companies (large and small), think tanks, and industry organizations; and
+
+(3) the Secretary of Commerce and the heads of any other Federal agency the Secretary of Labor
+determines appropriate.
+
+SEC. 4. DEFINITIONS.
+
+
+In this Act:
+(1) ARTIFICIAL
+
+(A) think like humans (including cognitive
+architectures and neural networks);
+(B) act like humans (such as passing the
+Turing test using natural language processing,
+knowledge representation, automated reasoning,
+and learning);
+
+
+(C) think rationally (such as logic solvers,
+inference, and optimization);
+
+(D) act rationally (such as intelligent software agents and embodied robots that achieve goals via perception, planning, reasoning, learning, communicating, decision making, 
+and acting); or
+(E) automate or replicate intelligent behavior.
+
+(2) COMMUNITY
+
+24
+
+COLLEGE.—The term ‘‘community college’’ has the meaning given the term ‘‘junior
+
+1
+
+or community college’’ in section 312(f) of the Higher Education Act of 1965 (20 U.S.C. 1058(f)).
+
+3
+
+(3) INSTITUTION
+
+OF HIGHER EDUCATION.—The term ‘‘institution of higher education’’ has the
+meaning given the term in section 102 of the Higher
+
+6
+
+Education Act of 1965 (20 U.S.C. 1002).
+
+7
+
+(4) LOCAL
+
+EDUCATIONAL AGENCY.—The ‘‘local educational agency’’ has the meaning given
+the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).

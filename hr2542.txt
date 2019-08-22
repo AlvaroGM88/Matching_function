@@ -1,0 +1,91 @@
+﻿I
+116TH CONGRESS
+1ST SESSION
+H. R. 2542
+To direct the Secretary of Transportation to make grants for the operation
+of a clearinghouse to collect, conduct, and fund research on the influences
+of highly automated vehicles on land use, urban design, transportation,
+real estate, and municipal budgets, and for other purposes.
+IN THE HOUSE OF REPRESENTATIVES
+MAY 7, 2019
+Mr. BLUMENAUER (for himself, Ms. BONAMICI, and Mr. MICHAEL F. DOYLE
+of Pennsylvania) introduced the following bill; which was referred to the
+Committee on Science, Space, and Technology, and in addition to the
+Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of
+such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To direct the Secretary of Transportation to make grants
+for the operation of a clearinghouse to collect, conduct,
+and fund research on the influences of highly automated
+vehicles on land use, urban design, transportation, real
+estate, and municipal budgets, and for other purposes.
+Be it enacted by the Senate and House of Representatives 
+of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Preparing Localities
+for an Autonomous and Connected Environment Act’’ or
+the ‘‘PLACE Act’’.
+SEC. 2. GRANTS FOR THE OPERATION OF A NATIONAL
+HIGHLY AUTOMATED VEHICLE CLEARING-
+HOUSE.
+(a) IN GENERAL.—Part A of subtitle VI of title 49,
+9 United States Code, is amended by adding at the end the
+10 following new chapter:
+‘‘CHAPTER 307—NATIONAL HIGHLY AUTOMATED VEHICLE CLEARINGHOUSE
+‘‘SEC. 30701. NATIONAL HIGHLY AUTOMATED VEHICLE
+CLEARINGHOUSE.
+‘‘(a) IN GENERAL.—The Secretary of Transportation
+16 shall make a grant to an institution of higher education
+17 engaged in research on the secondary influences of highly
+18 automated vehicles to—
+‘‘(1) operate a national highly automated vehicle clearinghouse;
+‘‘(2) collect, conduct, and fund research on the
+secondary influences of highly automated vehicles;
+and
+‘‘(3) make such research available on a public
+website.
+‘‘(b) AUTHORIZATION
+OF
+APPROPRIATIONS.—There
+2 is authorized to be appropriated out of the Highway Trust
+3 Fund $2,000,000 for each fiscal year, beginning with fis4 cal year 2019, to carry out this Act.
+‘‘(c) APPLICABILITY
+OF
+TITLE 23.—Funds authorized by subsection (b) shall be available for obligation in
+7 the same manner as if such funds were apportioned under
+8 chapter 1 of title 23 except that the funds shall remain
+9 available until expended.
+‘‘(d) DEFINITIONS.—In this section:
+‘‘(1) HIGHLY
+‘highly automated vehicle’ means a motor vehicle
+that is capable of performing the entire task of driving 
+(including steering, accelerating and decelerating, and reacting to external stimulus) without
+human intervention.
+‘‘(2) INSTITUTION
+OF HIGHER EDUCATION.—
+The term ‘institution of higher education’ has the
+meaning given the term in section 101 of the Higher
+Education Act of 1965 (20 U.S.C. 1001).
+‘‘(3) SECONDARY
+INFLUENCE.—The
+term ‘secondary influence’ means the influence on land use,
+urban design, transportation, real estate, municipal
+budgets, social equity, and the environment.’’.
+AUTOMATED VEHICLE.—The
+(b) DEADLINE
+CLEARINGHOUSE.—The Secretary of Transportation shall ensure that the institution
+3 of higher education who receives the grant described in
+4 section 30701(a)(1) of title 49, United States Code, as
+5 added by subsection (a), shall establish the national highly
+6 automated vehicle clearinghouse described in such section
+7 not later than 180 days after the date of the enactment
+8 of this Act.
+9
+(c) TECHNICAL
+CONFORMING AMENDMENT.—
+AND
+
+10 The table of sections for part A of subtitle VI, of title
+11 49, United States Code, is amended by inserting after the
+12 item relating to chapter 305 the following new item:
+‘‘307. National highly automated vehicle clearinghouse.’’.
